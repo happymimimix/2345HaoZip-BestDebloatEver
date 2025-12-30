@@ -11,4 +11,4 @@
 
 **不舍得看到这么多高质量的神作一夜之间突然蒸发，趁它还活着的时候火速备份！**
 
-## 下载：https://github.com/happymimimix/2345HaoZip-BestDebloatEver/Releases 或 https://pan.quark.cn/s/15eb07bbd3a0
+## 下载：https://github.com/happymimimix/2345HaoZip-BestDebloatEver/releases 或 https://pan.quark.cn/s/15eb07bbd3a0
